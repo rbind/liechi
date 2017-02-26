@@ -77,11 +77,11 @@ menu:
 
 params:
   description: "Description of your website."
-  disqusURL: "http://yihui.name"
-  fullURL: "https://yihui.name"
+  disqusURL: "https://liechi.rbind.io"
+  fullURL: "https://liechi.rbind.io"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
-  githubContentURL: "https://github.com/rbind/yihui.name/edit/master/content/"
+  githubContentURL: "https://github.com/rbind/liechi/edit/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.9.0"
