@@ -1,7 +1,7 @@
 baseurl: "/"
 relativeurls: true
 languageCode: "en-us"
-title: "The title of your website"
+title: "Liechi's blog"
 theme: "hugo-lithium-theme"
 googleAnalytics: ""
 disqusShortname: ""
