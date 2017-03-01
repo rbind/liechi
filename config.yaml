@@ -1,7 +1,7 @@
 baseurl: "/"
 relativeurls: true
 languageCode: "en-us"
-title: "The title of your website"
+title: "Liechi's blog"
 theme: "hugo-lithium-theme"
 googleAnalytics: ""
 disqusShortname: ""
@@ -89,8 +89,8 @@ params:
   highlightjsTheme: "github"
 
   social:
-    twitter: "xieyihui"
-    weibo: "谢益辉"
+    twitter: "liechizhang"
+    weibo: "张列弛"
     weibo_url: "yihuixie"
     github: "yihui"
 
@@ -98,11 +98,11 @@ params:
     url: "logo.png"
     width: 50
     height: 50
-    alt: "Yihui Xie"
+    alt: "Liechi Zhang"
 
   author:
-    en: "Yihui Xie"
-    cn: "谢益辉"
+    en: "Liechi Zhang"
+    cn: "张列弛"
 
   lang:
     edit:
