@@ -91,8 +91,8 @@ params:
   social:
     twitter: "liechizhang"
     weibo: "张列弛"
-    weibo_url: "yihuixie"
-    github: "yihui"
+    weibo_url: "liechizhang"
+    github: "liechi"
 
   logo:
     url: "logo.png"
