@@ -1,7 +1,7 @@
 baseurl: "/"
 relativeurls: true
 languageCode: "en-us"
-title: "Liechi's blog"
+title: "Liechi | 張列弛"
 theme: "hugo-lithium-theme"
 googleAnalytics: ""
 disqusShortname: ""
