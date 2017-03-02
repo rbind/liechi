@@ -1,7 +1,7 @@
 ---
-title: A Sample Page
-author: Yihui Xie
-date: '2017-01-31'
+title: A History of Auxin Research
+author: Liechi Zhang
+date:'2017-03-02'
 ---
 
-This is a sample page.
+On introduction of the development of auxin research.
