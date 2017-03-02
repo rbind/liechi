@@ -1,8 +1,8 @@
 ---
-title: A Cool Project
-author: Yihui Xie
-date: '2017-01-31'
+title: Auxin and the development and patterning of plants
+author: Liechi
+date: '2017-03-2'
 show_title: yes
 ---
 
-An introduction to a cool project.
+An Introduction will come soon.
