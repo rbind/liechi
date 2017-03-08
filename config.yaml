@@ -72,7 +72,7 @@ menu:
       weight: 2
     - name: "Github repo"
       pre: "github"
-      url: "https://github.com/yihui/blogdown-yihui-template"
+      url: "https://github.com/liechi/"
       weight: 3
 
 params:
