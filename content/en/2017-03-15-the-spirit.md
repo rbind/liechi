@@ -5,11 +5,11 @@ date: '2017-03-15'
 slug: the-spirit
 ---
 
-This image is said be created by John Wheeler.
+This image is said to be created by John Wheeler.
 
 I really enjoy the idea behind this art work, because it reminds me of the idea of Hegel on the cosmos.
 
-John's perception of the universe:
+John's perception:
 
 ![OK](/images/universlookingbackatitself.png)
 
