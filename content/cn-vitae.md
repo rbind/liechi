@@ -13,6 +13,6 @@ disable_comments: true
 2006 - 2010 西南大学 农学专业本科生，中国，重庆
 
 
-邮箱: nibb.liechi@gmail.com
+邮箱: zhang@liechi.org
 
 

@@ -12,5 +12,5 @@ disable_comments: true
 
 2006 - 2010 Southwest University, Chongqing, China 
 
-Email: nibb.liechi@gmail.com
+Email: zhang@liechi.org
       
