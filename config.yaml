@@ -1,10 +1,10 @@
 baseurl: "/"
 relativeurls: true
 languageCode: "en-us"
-title: "Liechi's blog"
+title: "Liechi | 張列弛"
 theme: "hugo-lithium-theme"
 googleAnalytics: ""
-disqusShortname: ""
+disqusShortname: "liechi-rbind-io"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
@@ -72,7 +72,7 @@ menu:
       weight: 2
     - name: "Github repo"
       pre: "github"
-      url: "https://github.com/yihui/blogdown-yihui-template"
+      url: "https://github.com/liechi/"
       weight: 3
 
 params:
@@ -91,8 +91,8 @@ params:
   social:
     twitter: "liechizhang"
     weibo: "张列弛"
-    weibo_url: "yihuixie"
-    github: "yihui"
+    weibo_url: "liechizhang"
+    github: "liechi"
 
   logo:
     url: "logo.png"
