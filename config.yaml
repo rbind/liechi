@@ -77,8 +77,8 @@ menu:
 
 params:
   description: "Description of your website."
-  disqusURL: "https://liechi.rbind.io"
-  fullURL: "https://liechi.rbind.io"
+  disqusURL: "https://liechi.org"
+  fullURL: "https://liechi.org"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
   githubContentURL: "https://github.com/rbind/liechi/edit/master/content/"
