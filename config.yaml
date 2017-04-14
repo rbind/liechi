@@ -67,8 +67,8 @@ menu:
     - name: "Project Home"
       url: "/cool/"
       weight: 1
-    - name: "Sample Page"
-      url: "/cool/sample/"
+    - name: "Auxin and plant development"
+      url: "/cool/auxin/"
       weight: 2
     - name: "Github repo"
       pre: "github"
