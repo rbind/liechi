@@ -35,5 +35,7 @@ Error in run_script("R/build.R", as.character(local)) :
   Failed to run R/build.R
   
   
-I do not well understand why "xaringan" is needed, but anyway, I install "xaringan", then rebuild the site. Now I can see a new markdown file generated, and I added this file, commited, and pushed to the github repo（Maybe you feel curious about the tense I used here, the same feeling that in the letter, you see, "I hope to send some money to you with this letter, but unfortunately the envelope is already sealed"）.
+I do not well understand why "xaringan" is needed, but anyway, I installed "xaringan", then rebuilt this file. Now I can see a new markdown file generated, and I git added this file, commited, and pushed to the github repo（Maybe you feel curious about the tense I used here, the same feeling that in the letter, you see, "I hope to send some money to you with this letter, but unfortunately the envelope is already sealed"）.
+
+Now I hope you can see it online.
 
