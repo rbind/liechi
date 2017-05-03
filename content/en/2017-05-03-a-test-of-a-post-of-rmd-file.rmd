@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+If you see this file on my site, it means that I get it right again, and Yihui's magic is amazing.
+
 I pushed a post using git in RStudio, however, I could not see the generated page even though I received the deploy notification from Netlify. When I check how might be the problem, I noticed that the file I pushed is an Rmarkdown file. I had not met this kind of issue before, because I always use markdown file to write posts. To comfirm whether the problem was caused by the Rmarkdown file, I wrote this post to test again.
 
 ```{r plotRandomNumbers}
