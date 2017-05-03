@@ -1,0 +1,18 @@
+---
+title: A test of a post of rmd file
+author: Liechi Zhang
+date: '2017-05-03'
+slug: a-test-of-a-post-of-rmd-file
+categories: []
+tags: []
+---
+
+I pushed a post using git in RStudio, however, I could not see the generated page even though I received the deploy notification from Netlify. When I check how might be the problem, I noticed that the file I pushed is an Rmarkdown file. I had not met this kind of issue before, because I always use markdown file to write posts. To comfirm whether the problem was caused by the Rmarkdown file, I wrote this post to test again.
+
+```{r plotRandomNumbers}
+set.seed(111)
+x <- seq(1:100)
+y <- rnorm(100, 100, 100)
+plot(x, y)
+abline(h = mean(y))
+```
