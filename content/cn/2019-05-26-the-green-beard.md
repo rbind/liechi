@@ -10,7 +10,7 @@ tags: []
 
 自然选择理论自提出以来，遇到了很多挑战，其中之一可以表述为：像团结友爱，互帮互组这样看起来很美好的特质是如何从物竞天择这样残酷的机制中产生的？ 
 
-W. D. Hamilton 在 1964 年发表了两篇文章（The genetical evolution of social behaviour. I & II），探讨了社会行为的产生的基因基础。这是两篇很难懂的文章，不过文中的关于合作利他行为的进化那部分内容被“记者”[^jizhe] Richard Dawkins 形象地概括为[“绿胡子效应”](https://en.wikipedia.org/wiki/Green-beard_effect)[^gb][^sf]。   
+W. D. Hamilton 在 1964 年发表了两篇文章（The genetical evolution of social behaviour. I & II），探讨了社会行为的产生的基因基础。这是两篇很难懂的文章，不过文中的关于合作利他行为的进化那部分内容被“记者”[^jizhe] Richard Dawkins 在其著作《The Selfish Gene》里详尽的展开阐述，并形象地概括为[“绿胡子效应”](https://en.wikipedia.org/wiki/Green-beard_effect)[^gb][^sf]。   
 
 绿胡子效应说的是什么呢？达尔文在他的《物种起源》里写道： 
 
@@ -33,9 +33,9 @@ W. D. Hamilton 在 1964 年发表了两篇文章（The genetical evolution of so
 今天你标签了吗？
 
 [^jizhe]:嘲讽 Dawkins 是记者的是 E. D. Wilson，涉及的是选择学说的基本单位之争。 
-[^mogu]:我现在还不时在想，蘑菇算是素菜吗？虽然我对蘑菇在生命系统发生树上的位置很清楚，但是吃的时候会犯愣。这是一个欲往蘑菇身上贴标签而不可得的例子。
+[^mogu]:我现在还不时在想，蘑菇算是素菜吗？虽然我对蘑菇在生命系统发生树上的位置很清楚，但是吃的时候会犯懵。这是一个欲往蘑菇身上贴标签而不可得的例子。
 [^gb]:绿胡子和红皇后（假说）一起，组成了一组丰富多彩的进化论黑话。
-[^sf]:出自《The selfish gene》一书。这本书是里的观点主要来源于 J. M. Smith, G. C. Williams 和 W. D. Hamilton 的学说。Dawkins 将这些学推向大众，这是极大的贡献。Dawkins 的文笔之犀利，战斗欲之旺盛是其特征。不过我觉得行文有点啰嗦，很多地方是车轱辘话，滚来滚去地说。或许这是为了让读者更好的接受他的观点吧，不过我更喜欢简洁明了的叙事风格。
+[^sf]:出自《The selfish gene》一书。这本书是里的观点主要来源于 J. M. Smith, G. C. Williams 和 W. D. Hamilton 的研究。Dawkins 将这些研究推向大众，这是极大的贡献。Dawkins 的文笔犀利，战斗欲旺盛，其作品吸引了大批读者。不过我觉得他行文有点啰嗦。我更喜欢简洁明了的叙事风格。
 [^yuce]:在我看来，预测力才是检验理论最可靠的标准。
 [^haoren]:其实好人是难以定义的，甚至是不存在的，我个人很不喜欢这个标签。但是我想，有的人在这么催眠自己的时候或许会约束自己的行为吧。
 [^wuwei]:这里说的“无谓”不是指先前提到的那个帖子，我觉得那个帖子里的讨论是比较有营养的。
