@@ -14,7 +14,7 @@ tags: []
 
 > A SHORT history of any subject should not simply be an abridgement of a larger one. It should be a picture complete in itself, rather than a mere inventory of names and “isms." To achieve this, the author should, as a Chinese expression says, “have the whole history in his mind.” Only then can he give the reader an adequate and well-rounded account within his chosen limited scope. 
 
-> According to Chinese historiography, a good historian must have wide scholarship in order to master all his materials, sound judgment to make proper selection of them, and literary talent in order to tell his story in an interesting way. In writing a short history, intended for a general public, the author certairrly has less chance to display his scholarship, but he needs more selective judgnrent and literary talent than he would for writing a longer and strictly scholarly work.  
+> According to Chinese historiography, a good historian must have wide scholarship in order to master all his materials, sound judgment to make proper selection of them, and literary talent in order to tell his story in an interesting way. In writing a short history, intended for a general public, the author certainly has less chance to display his scholarship, but he needs more selective judgnrent and literary talent than he would for writing a longer and strictly scholarly work.  
 
 > ...
 
