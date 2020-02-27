@@ -13,6 +13,7 @@ from_Rmd: yes
 ---
 
 
+This demo is a reproduction of <https://blogdown-demo.rbind.io/2017/08/28/adding-citations-to-posts/>.  
 
 With **blogdown**, you are able to take advantage of several features of Pandoc's Markdown, including adding citations. You can read more about adding citations in the **bookdown** book [here](https://bookdown.org/yihui/bookdown/citations.html). 
 
