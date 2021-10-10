@@ -6,7 +6,7 @@ slug: ''
 categories: []
 tags: []
 ---
-突然想听中岛姑娘的[《地上的星》](https://www.bilibili.com/video/BV1Bb411F7fb?share_source=copy_web)，于是单曲循环了很久。听得有点激动，动手把歌词翻译了。这首歌的翻译已有不错的版本，所以我的翻译并没有什么价值，单纯是因为自己很想这么做而已。 
+突然想听中岛姑娘的[《地上的星》](https://www.bilibili.com/video/BV1Bb411F7fb?share_source=copy_web)，于是单曲循环了很久。听得有点激动，就动手把歌词翻译了。这首歌的翻译已有不错的版本，所以我的翻译并没有什么特别的价值，单纯是因为自己很想翻一遍而已。 
 
 > 风里的昴星  
 砂中的银河  
